@@ -9,7 +9,8 @@
 -  **Languages :** Python, C, C++;
 -  **Skills :** Computer Version, Machine Learning && GPU Programming;
 -  **Fact :** Welcome to join our team as full-time employee or intern! 欢迎全职或实习生加入我们的团队！[Chinese JD](https://jobs.bytedance.com/experienced/position/6823572338317314311/detail) @Beijing or Shanghai
--  
+
+
 <p align="center">
   <img alt="xmfbit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xmfbit&show_icons=true&theme=radical">
 </p>
