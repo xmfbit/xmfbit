@@ -1,16 +1,21 @@
 ### Hi there 👋
+<!-- This is modified from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/Isha2103.md -->
 
-<!--
-**xmfbit/xmfbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GtiHub Page](https://img.shields.io/badge/Github%20Page-xmfbit.github.io-brightgreen&link=https://xmfbit.github.io)](https://xmfbit.github.io/)   [![Gmail Badge](https://img.shields.io/badge/-xmfbit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xmfbit@gmail.com)](mailto:xmfbit@gmail.com) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <i>About</i>
 
-Here are some ideas to get you started:
+-  **Working :** Currently I am a Software Engineer	at ByteDance Ads team, working on infrastructure for DL model deployment;
+-  **Languages :** Python, C, C++;
+-  **Skills :** Computer Version, Machine Learning && GPU Programming;
+-  **Fact :** Welcome to join our team as full-time employee or intern! 欢迎全职或实习生加入我们的团队！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="xmfbit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xmfbit&show_icons=true&theme=radical">
+</p>
+
+
+-----
+Last Edited on: 22/11/2021
+
+Credits: this is modified from [Isha Gupta](https://github.com/Isha2103)
