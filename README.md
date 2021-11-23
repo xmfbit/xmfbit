@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- This is modified from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/Isha2103.md -->
 
-[![GtiHub Page](https://img.shields.io/badge/Github%20Page-xmfbit.github.io-brightgreen&link=https://xmfbit.github.io)](https://xmfbit.github.io/)   [![Gmail Badge](https://img.shields.io/badge/-xmfbit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xmfbit@gmail.com)](mailto:xmfbit@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-xmfbit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xmfbit@gmail.com)](mailto:xmfbit@gmail.com) [![GitHub Page](https://img.shields.io/badge/-xmfbit.github.io-c14438?style=flat-square&logo=Website&logoColor=white&link=https://xmfbit.github.io)](https://xmfbit.github.io)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
