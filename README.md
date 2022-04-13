@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- This is modified from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/Isha2103.md -->
 
-[![Gmail Badge](https://img.shields.io/badge/-xmfbit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xmfbit@gmail.com)](mailto:xmfbit@gmail.com) [![GitHub Page](https://img.shields.io/badge/-xmfbit.github.io-c14438?style=flat-square&logo=Website&logoColor=white&link=https://xmfbit.github.io)](https://xmfbit.github.io) [![GitHub followers](https://img.shields.io/github/followers/xmfbit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/xmfbit?tab=followers)![Profile views](https://gpvc.arturio.dev/xmfbit)  
+[![Gmail Badge](https://img.shields.io/badge/-xmfbit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xmfbit@gmail.com)](mailto:xmfbit@gmail.com) [![GitHub Page](https://img.shields.io/badge/-xmfbit.github.io-c14438?style=flat-square&logo=Website&logoColor=white&link=https://xmfbit.github.io)](https://xmfbit.github.io) [![GitHub followers](https://img.shields.io/github/followers/xmfbit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/xmfbit?tab=followers)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
