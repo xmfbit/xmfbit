@@ -5,10 +5,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Working :** Currently I am a Software Engineer	at ByteDance Ads team, working on infrastructure for DL model deployment;
+-  **Working :** Currently I am a Software Engineer	at ByteDance Pico VR team, working on infrastructure for DL model deployment on edge && cloud;
 -  **Languages :** Python, C, C++;
 -  **Skills :** Computer Version, Machine Learning && GPU Programming;
--  **Fact :** Welcome to join our team as full-time employee or intern! 欢迎全职或实习生加入我们的团队！[Chinese JD](https://jobs.bytedance.com/experienced/position/6823572338317314311/detail) @Beijing or Shanghai
+-  **Fact :** Welcome to join our team as full-time employee or intern! 欢迎全职或实习生加入我们的团队！[Chinese JD](https://jobs.bytedance.com/experienced/position/7025252535225534751/detail) @Beijing
 
 
 <p align="center">
