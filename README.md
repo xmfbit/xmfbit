@@ -5,11 +5,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Working :** Currently I am a Software Engineer	at ByteDance Pico VR team, working on infrastructure for DL model deployment on edge && cloud;
--  **Languages :** Python, C, C++;
+-  **Working :** Currently I am a Software Engineer	at Tiktok Search team, working on infrastructure for LLM models training and deployment;
+-  **Languages :** Python, C++;
 -  **Skills :** Computer Version, Machine Learning && GPU Programming;
--  **Fact :** Welcome to join our team as full-time employee or intern! 欢迎全职或实习生加入我们的团队！[Chinese JD](https://jobs.bytedance.com/experienced/position/7025252535225534751/detail) @Beijing && Shanghai
-
 
 <p align="center">
   <img alt="xmfbit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xmfbit&show_icons=true&theme=radical">
